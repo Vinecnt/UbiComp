@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UbiComp</string>
+    <string name="edit_message">Enter a Message</string>
+    <string name="button_show">Show Message</string>
+    <string name="button_new">New Activity</string>
+    <string name="title_activity_second">Second</string>
+</resources>
